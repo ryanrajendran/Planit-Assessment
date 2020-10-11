@@ -1,7 +1,7 @@
 # Planit-Assessment
 
-<h1 align="center">Hi 👋, I'm Ranjit (Ryan) Rajendran</h1>
-<h3 align="center">Software Test Engineer</h3>
+<h1 align="center">Hi, I'm Ranjit (Ryan) Rajendran</h1>
+<h3 align="center">Software Test Engineer Assessment for Planit</h3>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
