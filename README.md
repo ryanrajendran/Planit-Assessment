@@ -7,7 +7,7 @@
 
 This README file summarises the details of the Planit Technical Assessment for the role of Software Test Engineer. 
 
-Tool used: Selenium   Language: Java   IDE: Eclipse
+Tool used: Selenium;   Language: Java;   IDE: Eclipse
 
 Four test cases that were required to be automated has been executed successfully. The code is contained within this repository.  Only assumption made was for Test case 3 where space has been assumed as invalid character for text boxes 'Forename' and 'Message'. 
 
