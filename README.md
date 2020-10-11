@@ -9,7 +9,7 @@ This README file summarises the details of the Planit Technical Assessment for t
 
 Tool used: Selenium   Language: Java   IDE: Eclipse
 
-All 4 test cases have been automated and executed successfully. For Test case 3, space has been assumed as invalid character for text boxes 'Forename' and 'Message'. 
+All four test cases have been automated and executed successfully. For Test case 3, space has been assumed as invalid character for text boxes 'Forename' and 'Message'. 
 
 No limits set for interactions with this repository being set as public and visible to anyone.
 
